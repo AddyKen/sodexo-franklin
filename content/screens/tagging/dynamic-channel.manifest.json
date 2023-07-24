@@ -1,0 +1,31 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1687163480339,
+  "entries": [
+    {
+      "path": "/content/screens/tagging/dynamic-channel.html",
+      "timestamp": 1687163480163
+    },
+    {
+      "path": "/content/screens/assets/test-global-slide.png",
+      "timestamp": 1686052816000
+    },
+    {
+      "path": "/content/screens/assets/test-north-america-slide.png",
+      "timestamp": 1686118097000
+    },
+    {
+      "path": "/content/screens/assets/test-us-slide.png",
+      "timestamp": 1686132692000
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1684842853718,
+  "entries": [
+    {
+      "path": "/content/screens/employee-communications/locations/global/north-america/us/san-jose/west/test-player0.html",
+      "timestamp": 1684842852936
+    },
+    {
+      "path": "/content/screens/assets/test-global-slide.png",
+      "timestamp": 1684842322000
+    },
+    {
+      "path": "/content/screens/assets/test-north-america-slide.png",
+      "timestamp": 1684842326000
+    },
+    {
+      "path": "/content/screens/assets/test-us-slide.png",
+      "timestamp": 1684842328000
+    },
+    {
+      "path": "/content/screens/assets/test-san-jose-slide.png",
+      "timestamp": 1684842329000
+    },
+    {
+      "path": "/content/screens/assets/test-founders-slide.png",
+      "timestamp": 1684842322000
+    },
+    {
+      "path": "/content/screens/assets/test-player-slide.png",
+      "timestamp": 1684842326000
+    }
+  ]
+}
